@@ -1,10 +1,10 @@
-# Remi Oni and Tolulope Fakunle Shell
+# Mariem Mimouni and Israel Ajagboye Shell
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 ### Description
 
-Remi Oni and Tolulope Fakunle Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Mariem Mimouni and Israel Ajagboye shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
@@ -12,7 +12,7 @@ Clone this repository into your working directory. For best results, files shoul
 
 ### Usage
 
-After compilation, the resulting program can run stand-alone, either in interactive or non-interactive mode.
+After compilation, the resulting program can run and stand-alone, either in interactive or non-interactive mode.
 
 #### Interactive Mode
 
@@ -44,4 +44,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Remi Oni]([https://github.com/Oni-Jremi]) and [Tolulope Fakunle](https://github.com/Tolulope05).
+All code written by [Mariem Mimouni]([https://github.com/MariemMimouni]) and [Israel Ajagboye](https://github.com/Dr-savant21).
